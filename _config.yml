@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: "高密四中"
+subtitle:"创办有温度的教育 推进高质量发展"
 description:
 keywords:
-author: John Doe
-language:
+author: "文宣部"
+language:zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://gmsz-site.vercel.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
