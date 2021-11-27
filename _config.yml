@@ -1,19 +1,15 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
-title: "高密市第四中学"
+title: "山东省高密市第四中学"
 subtitle: "创办有温度的教育 推进高质量发展"
 description:
 keywords:
-author: "高密市第四中学"
+author: "高密四中"
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://gmsz-site.vercel.app
+url: https://www.gmsz.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -71,8 +67,6 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
 theme: fluid
 
 # Deployment
